@@ -1,0 +1,14 @@
+[project]
+name = "image-captioning-in-comfyui"
+description = "The LoRA Caption custom nodes, just like their name suggests, allow you to caption images so they are ready for LoRA training."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/LarryJane491/Image-Captioning-in-ComfyUI"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "Image-Captioning-in-ComfyUI"
+Icon = ""
